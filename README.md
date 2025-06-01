@@ -67,7 +67,7 @@ Em breve disponível em formato web interativo!
 
 ### Laércio — Desenvolvedor Web & Criador de Conteúdo
 
-[Portfólio](https://seuportfolio.com) • [LinkedIn](https://linkedin.com/in/seulink) • [GitHub](https://github.com/seuuser)
+• [LinkedIn]([(https://www.linkedin.com/in/laercioricardolima/])) • [GitHub]([https://github.com/laercioricardolima)) • [Instagram](https://www.instagram.com/laercioricardoo?utm_source=qr&igsh=aDVsN25lc3pjbmZi)))
 
 </div>
 
