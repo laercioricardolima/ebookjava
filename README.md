@@ -55,7 +55,8 @@ Você pode baixar o eBook completo clicando abaixo:
 
 
 ### 🧠 Leitura online
-Em breve disponível em formato web interativo!
+(https://github.com/laerciodev/ebook-java-ia/raw/main/ebook-java-ia.pdf
+)
 
 ---
 
