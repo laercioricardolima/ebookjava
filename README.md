@@ -48,10 +48,11 @@ With a modern tone, attractive visuals, and straight-to-the-point content, this 
 
 ## 🚀 Como usar | How to Use
 
-### 📥 Download PDF
+### 📥 Download PDF  
 Você pode baixar o eBook completo clicando abaixo:
 
-[📥 Baixar eBook (PT-BR)](link-para-pdf)
+📘 [Baixar eBook (PT-BR)](./ebook-java-ia.pdf)
+
 
 ### 🧠 Leitura online
 Em breve disponível em formato web interativo!
