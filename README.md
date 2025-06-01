@@ -65,9 +65,21 @@ Em breve disponível em formato web interativo!
 
 <img src="images/laercio-avatar.png" alt="Laércio" width="120" style="border-radius: 50%" />
 
-### Laércio — Desenvolvedor Web & Criador de Conteúdo
+### 💻 Laércio — Desenvolvedor Web & Criador de Conteúdo  
+### 💻 Laércio — Web Developer & Content Creator
 
-• [LinkedIn](https://www.linkedin.com/in/laercioricardolima/) • [GitHub](https://github.com/laercioricardolima) • [Instagram](https://www.instagram.com/laercioricardoo?utm_source=qr&igsh=aDVsN25lc3pjbmZi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laercioricardolima/) • 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/laercioricardolima) • 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/laercioricardoo?utm_source=qr&igsh=aDVsN25lc3pjbmZi)
+
+> 💡 **Dica:** Para abrir os links em outra aba:  
+> **Ctrl + clique** (Windows/Linux) ou **Cmd + clique** (Mac),  
+> ou clique com o botão direito e selecione **"Abrir link em nova guia"**.
+
+> 💡 **Tip:** To open the links in a new tab:  
+> **Ctrl + click** (Windows/Linux) or **Cmd + click** (Mac),  
+> or right-click the link and choose **"Open link in new tab"**.
+
 
 </div>
 
