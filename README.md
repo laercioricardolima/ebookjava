@@ -60,8 +60,7 @@ Você pode baixar o eBook completo clicando abaixo:
 
 <img src="images/laercio-avatar.png" alt="Laércio" width="120" style="border-radius: 50%" />
 
-### 💻 Laércio — Desenvolvedor Web & Criador de Conteúdo  
-### 💻 Laércio — Web Developer & Content Creator
+### 💻 Laércio Ricardo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laercioricardolima/) • 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/laercioricardolima) • 
