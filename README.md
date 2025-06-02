@@ -1,6 +1,7 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1500&color=purple&center=true&vCenter=true&width=800&lines=Java+%2B+IA+%3D+a+chave+do+futuro+profissional!;Atenda+uma+demanda+em+explos%C3%A3o+na+Europa+tech!;Baixe+o+eBook+e+destaque-se+no+mercado+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1500&color=00FFFF&center=true&vCenter=true&width=800&background=true&backgroundColor=000000&lines=Java+%2B+IA+%3A+Seu+passaporte+para+o+futuro!;Demanda+explosiva+por+tech+na+Europa!;Baixe+o+eBook+e+abra+novas+portas+🚀)
+
 
 <img src="images/capa-ebook.png" alt="Capa do eBook" width="600"/>
 </div>
