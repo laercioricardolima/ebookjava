@@ -51,13 +51,14 @@ This eBook is for those who want to grow in tech by combining **Java** and **AI*
 
 ---
 
-## 🧩 Tecnologias e Ferramentas
+## ⚙️ Tecnologias Utilizadas
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux"/>
+
+<img src="https://img.shields.io/badge/ChatGPT-25D366?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+
 </div>
 
 ---
@@ -82,17 +83,6 @@ This eBook is for those who want to grow in tech by combining **Java** and **AI*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laercioricardolima/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laercioricardolima)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/laercioricardoo)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Laércio GitHub Stats](https://github-readme-stats.vercel.app/api?username=laercioricardolima&show_icons=true&theme=radical&border_radius=10)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laercioricardolima&layout=compact&theme=radical)
 
 </div>
 
