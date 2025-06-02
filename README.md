@@ -1,4 +1,8 @@
 <div align="center">
+```diff
+- Este texto está em um "bloco" com fundo escuro (tipo terminal)
++ Você pode usar isso para destacar comandos ou frases com estilo
+
 
 # ☕🤖 Java + IA: Seu Passaporte para o Futuro na Europa  
 **Java + AI: Your Passport to a Future in Europe**
