@@ -57,8 +57,6 @@ With a modern tone, attractive visuals, and straight-to-the-point content, this 
 
 ---
 
-## 🚀 Como usar | How to Use
-
 ### 📥 Download PDF  
 Você pode baixar o eBook completo clicando abaixo:
 
