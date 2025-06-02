@@ -22,19 +22,30 @@ This is an eBook created to inspire developers who want to expand their opportun
 With a modern tone, attractive visuals, and straight-to-the-point content, this guide shows how these technologies can open international doors — especially when used strategically.
 
 ---
-
 ## 📚 Conteúdo | Content
 
-- Introdução — Por que Java e IA são o passaporte para o seu futuro?  
-- O que é Java e por que aprender?  
-- Introdução à Inteligência Artificial e suas aplicações  
-- O mercado europeu de tecnologia: oportunidades para devs  
-- Como combinar Java e IA no seu dia a dia profissional  
-- Dicas para conquistar o mercado europeu  
-- Conclusão — Próximos passos para você começar hoje mesmo  
-- Agradecimento
+- **Introdução** — Por que Java e IA são o passaporte para o seu futuro?  
+- **O que é Java e por que aprender?**  
+- **Introdução à Inteligência Artificial e suas aplicações**  
+- **O mercado europeu de tecnologia: oportunidades para devs**  
+- **Como combinar Java e IA no seu dia a dia profissional**  
+- **Dicas para conquistar o mercado europeu**  
+- **Conclusão** — Próximos passos para você começar hoje mesmo  
+- **Agradecimento**
 
 ---
+
+### 📚 Table of Contents (EN)
+
+- **Introduction** — Why Java and AI are your passport to the future  
+- **What is Java and why should you learn it?**  
+- **Introduction to Artificial Intelligence and its applications**  
+- **The European tech market: opportunities for developers**  
+- **How to combine Java and AI in your daily work**  
+- **Tips to conquer the European market**  
+- **Conclusion** — Next steps to get started today  
+- **Acknowledgment**
+
 
 ## 🖼️ Preview
 
