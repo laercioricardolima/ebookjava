@@ -3,7 +3,7 @@
 # ☕🤖 Java + IA: Seu Passaporte para o Futuro na Europa  
 **Java + AI: Your Passport to a Future in Europe**
 
-<img src="images/capa-ebook.png" alt="Capa do eBook" width="600"/>
+<img src="images/Gemini_Generated_Image_wc8264wc8264wc82.png" alt="Capa do eBook" width="600"/>
 
 </div>
 
