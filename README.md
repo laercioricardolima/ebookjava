@@ -4,17 +4,6 @@
 
 
 <img src="images/capa-ebook.png" alt="Capa do eBook" width="600"/>
-
-<!-- Foguete animado -->
-![Foguete subindo](https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif)
-
-<!-- Ícone Java -->
-![Java](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg)
-
-<!-- Ícone AI (chip) -->
-![AI](https://img.shields.io/badge/AI-%F0%9F%A7%AE-blue?style=flat)
-
-
 </div>
 
 ---
