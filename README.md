@@ -1,12 +1,14 @@
 <div align="center">
-![Laércio GitHub Stats](https://github-readme-stats.vercel.app/api?username=laercioricardolima&show_icons=true&theme=tokyonight)
 
 # ☕🤖 Java + IA: Seu Passaporte para o Futuro na Europa  
 **Java + AI: Your Passport to a Future in Europe**
 
 <img src="images/capa-ebook.png" alt="Capa do eBook" width="600"/>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Domine+o+Java+e+a+IA+para+o+mercado+europeu!;Seu+futuro+começa+aqui+🚀)
+
 </div>
+
 ---
 
 ## 📘 Sobre o Projeto | About the Project
@@ -14,14 +16,11 @@
 ### 🇧🇷 Português  
 Este é um eBook criado para inspirar desenvolvedores que desejam expandir suas oportunidades no mercado europeu unindo duas grandes potências: **Java** e **Inteligência Artificial**.
 
-Com linguagem moderna, design atrativo e conteúdo direto ao ponto, este material mostra como essas tecnologias podem abrir caminhos internacionais — especialmente se bem aplicadas com estratégia.
-
 ### 🇬🇧 English  
 This is an eBook created to inspire developers who want to expand their opportunities in the European market by combining two great forces: **Java** and **Artificial Intelligence**.
 
-With a modern tone, attractive visuals, and straight-to-the-point content, this guide shows how these technologies can open international doors — especially when used strategically.
-
 ---
+
 ## 📚 Conteúdo | Content
 
 - **Introdução** — Por que Java e IA são o passaporte para o seu futuro?  
@@ -35,19 +34,7 @@ With a modern tone, attractive visuals, and straight-to-the-point content, this 
 
 ---
 
-### 📚 Table of Contents (EN)
-
-- **Introduction** — Why Java and AI are your passport to the future  
-- **What is Java and why should you learn it?**  
-- **Introduction to Artificial Intelligence and its applications**  
-- **The European tech market: opportunities for developers**  
-- **How to combine Java and AI in your daily work**  
-- **Tips to conquer the European market**  
-- **Conclusion** — Next steps to get started today  
-- **Acknowledgment**
-
-
-## 🖼️ Preview
+### 🖼️ Visual do Projeto
 
 <div align="center">
   <img src="images/pagina2.png" width="300" />
@@ -57,13 +44,15 @@ With a modern tone, attractive visuals, and straight-to-the-point content, this 
 
 ---
 
-### 📥 Download PDF  
-Você pode baixar o eBook completo clicando abaixo:
+## 📥 Download
 
-📘 [Baixar eBook (PT-BR)](./ebook-java-ia.pdf)
+📘 [Clique aqui para baixar o PDF (PT-BR)](./ebook-java-ia.pdf)
 
+> 💡 Para abrir em nova aba: **Ctrl + clique** (Windows/Linux) ou **Cmd + clique** (Mac)
 
-## ✍️ Autor | Author
+---
+
+## 👨‍💻 Autor | Author
 
 <div align="center">
 
@@ -71,18 +60,20 @@ Você pode baixar o eBook completo clicando abaixo:
 
 ### 💻 Laércio Ricardo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laercioricardolima/) • 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/laercioricardolima) • 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laercioricardolima/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/laercioricardolima)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/laercioricardoo?utm_source=qr&igsh=aDVsN25lc3pjbmZi)
 
-> 💡 **Dica:** Para abrir os links em outra aba:  
-> **Ctrl + clique** (Windows/Linux) ou **Cmd + clique** (Mac),  
-> ou clique com o botão direito e selecione **"Abrir link em nova guia"**.
+</div>
 
-> 💡 **Tip:** To open the links in a new tab:  
-> **Ctrl + click** (Windows/Linux) or **Cmd + click** (Mac),  
-> or right-click the link and choose **"Open link in new tab"**.
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Laércio GitHub Stats](https://github-readme-stats.vercel.app/api?username=laercioricardolima&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laercioricardolima&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -90,8 +81,7 @@ Você pode baixar o eBook completo clicando abaixo:
 
 ## 💬 Feedback
 
-Gostou do projeto? Tem sugestões ou ideias?  
-Abra uma issue ou me chama no LinkedIn!
+Se gostou do projeto ou tem alguma sugestão, abra uma issue ou me chama no LinkedIn!
 
 ---
 
@@ -101,5 +91,5 @@ Se este projeto te ajudou ou inspirou, deixa uma ⭐ aqui no GitHub. Isso ajuda 
 
 ---
 
-> “A revolução tá rolando — e ela fala Java com sotaque europeu.” 🇪🇺💻  
-> _– eBook Java + IA_
+> _“A revolução tá rolando — e ela fala Java com sotaque europeu.”_ 🇪🇺💻  
+> — **eBook Java + IA**
