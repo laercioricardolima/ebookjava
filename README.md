@@ -1,4 +1,5 @@
 <div align="center">
+![Laércio GitHub Stats](https://github-readme-stats.vercel.app/api?username=laercioricardolima&show_icons=true&theme=tokyonight)
 
 # ☕🤖 Java + IA: Seu Passaporte para o Futuro na Europa  
 **Java + AI: Your Passport to a Future in Europe**
