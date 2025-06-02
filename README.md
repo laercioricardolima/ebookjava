@@ -5,12 +5,6 @@
 <div align="center">
   <img src="images/Gemini_Generated_Image_wc8264wc8264wc82.png" alt="Banner do Projeto" width="100%" />
 </div>
-
-
-<img src="images/Gemini_Generated_Image_wc8264wc8264wc82.png" alt="Capa do eBook" width="600"/>
-
-</div>
-
 ---
 
 ## 📘 Sobre o Projeto | About the Project
