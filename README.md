@@ -5,7 +5,8 @@
 
 <img src="images/capa-ebook.png" alt="Capa do eBook" width="600"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Domine+o+Java+e+a+IA+para+o+mercado+europeu!;Seu+futuro+começa+aqui+🚀)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=26&pause=1500&color=F7DF1E&center=true&vCenter=true&width=700&lines=Java+%2B+IA+%3D+o+combo+do+futuro!;Conquiste+a+Europa+com+suas+skills+tech!;Baixe+o+eBook+e+comece+hoje+🚀)
+
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
