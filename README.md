@@ -5,7 +5,9 @@
 
 <img src="images/capa-ebook.png" alt="Capa do eBook" width="600"/>
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+![Rocket](https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif)
+![Java](https://img.shields.io/badge/Java-%E2%98%95-%23ED8B00?style=flat&logo=java)
+![AI](https://img.shields.io/badge/AI-%F0%9F%A7%AE-%23007ACC?style=flat)
 
 </div>
 
