@@ -1,7 +1,7 @@
 <div align="center">
 
-# ☕🤖 Java + IA: Seu Passaporte para o Futuro na Europa  
-**Java + AI: Your Passport to a Future in Europe**
+#![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1500&color=00FFAA&center=true&vCenter=true&width=800&lines=Java+%2B+IA+%3D+o+combo+do+futuro!;Conquiste+a+Europa+com+suas+skills+tech!;Baixe+o+eBook+e+comece+hoje+🚀)
+
 
 <img src="images/capa-ebook.png" alt="Capa do eBook" width="600"/>
 
