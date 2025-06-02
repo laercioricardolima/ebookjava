@@ -5,9 +5,13 @@
 
 <img src="images/capa-ebook.png" alt="Capa do eBook" width="600"/>
 
-![Rocket](https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif)
-![Java](https://img.shields.io/badge/Java-%E2%98%95-%23ED8B00?style=flat&logo=java)
-![AI](https://img.shields.io/badge/AI-%F0%9F%A7%AE-%23007ACC?style=flat)
+<!-- Foguete subindo -->
+![Foguete subindo](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
+<!-- Símbolo café + IA (Java + IA) -->
+<!-- Salve o arquivo java-ia.svg no seu repositório e substitua o caminho abaixo -->
+![Java + IA](./java-ia.svg)
+
 
 </div>
 
