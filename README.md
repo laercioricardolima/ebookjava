@@ -1,6 +1,4 @@
 <div align="center">
-
-<div style="background:black; padding:10px; display:inline-block; border-radius:8px;">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1500&color=7B68EE&center=true&vCenter=true&width=800&background=true&backgroundColor=000000&lines=Java+%2B+IA+%3A+Seu+passaporte+para+o+futuro!;Demanda+explosiva+por+tech+na+Europa!;Baixe+o+eBook+e+destaque-se+no+mercado+🚀)
 
 
