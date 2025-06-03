@@ -1,3 +1,31 @@
+<h1 align="center">
+
+🚀☕🤖  
+<span style="font-size: 32px;">
+<strong>JAVA + INTELIGÊNCIA ARTIFICIAL</strong>  
+</span>  
+
+✨ <em>Seu passaporte para a Europa começa aqui.</em> ✨  
+
+</h1>
+
+<p align="center">
+  <img src="images/banner-estilizado.png" alt="Java + IA" width="800"/>
+</p>
+
+---
+
+### 🧠💼 O Futuro Não Espera
+
+```diff
++ Aprenda Java com propósito
++ Domine IA com estratégia
++ Conquiste seu espaço no mercado europeu
+
+
+
+
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1500&color=purple&center=true&vCenter=true&width=800&lines=🚀Java+%2B+IA+%3D+a+chave+do+futuro+profissional!;Atenda+uma+demanda+em+explos%C3%A3o+na+Europa!;Baixe+o+eBook+e+destaque-se+no+mercado+🚀🚀)
