@@ -1,3 +1,16 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/laercioricardolima/nome-repo?style=flat-square)
+![Made with Java](https://img.shields.io/badge/Made%20with-Java-red?style=flat-square&logo=java)
+![IA Powered](https://img.shields.io/badge/Powered%20by-ChatGPT-blueviolet?style=flat-square&logo=openai)
+![Design in Canva](https://img.shields.io/badge/Design-Canva-00C4CC?style=flat-square&logo=canva)
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1500&color=purple&center=true&vCenter=true&width=800&lines=🚀Java+%2B+IA+%3D+a+chave+do+futuro+profissional!;Atenda+uma+demanda+em+explos%C3%A3o+na+Europa!;Baixe+o+eBook+e+destaque-se+no+mercado+🚀🚀)
