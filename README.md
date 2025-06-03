@@ -1,15 +1,11 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/laercioricardolima/nome-repo?style=flat-square)
-![Made with Java](https://img.shields.io/badge/Made%20with-Java-red?style=flat-square&logo=java)
-![IA Powered](https://img.shields.io/badge/Powered%20by-ChatGPT-blueviolet?style=flat-square&logo=openai)
-![Design in Canva](https://img.shields.io/badge/Design-Canva-00C4CC?style=flat-square&logo=canva)
+### ⚙️ Tecnologias Usadas
 
-
-
-
-
-
-
-
+| Ferramenta | Função |
+|------------|--------|
+| ☕ Java     | Lógica, Backend |
+| 🤖 ChatGPT | Criação e revisão de conteúdo |
+| 🧠 Gemini  | Ideias de estrutura e tópicos |
+| 🎨 Canva   | Design do eBook e Banners |
 
 <div align="center">
 
