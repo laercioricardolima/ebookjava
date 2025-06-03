@@ -22,7 +22,7 @@
 + Domine IA com estratégia
 + Conquiste seu espaço no mercado europeu
 
-
+````
 
 
 
