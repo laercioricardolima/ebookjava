@@ -9,10 +9,6 @@
 
 </h1>
 
-<p align="center">
-  <img src="images/banner-estilizado.png" alt="Java + IA" width="800"/>
-</p>
-
 ---
 
 ### 🧠💼 O Futuro Não Espera
