@@ -1,11 +1,10 @@
-### ⚙️ Tecnologias Usadas
+```java
+public class Futuro {
+   public static void main(String[] args) {
+      System.out.println("Java + IA = Europa 🌍🚀");
+   }
+}
 
-| Ferramenta | Função |
-|------------|--------|
-| ☕ Java     | Lógica, Backend |
-| 🤖 ChatGPT | Criação e revisão de conteúdo |
-| 🧠 Gemini  | Ideias de estrutura e tópicos |
-| 🎨 Canva   | Design do eBook e Banners |
 
 <div align="center">
 
